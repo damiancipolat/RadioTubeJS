@@ -44,4 +44,4 @@ The project are divided in two sections a collector and the streaming server:
 
 - **Server Radio**:
 
-  Pending, is a continous streaming. When you connect to this streaming the server will stream the audio that are playing in   this momen, is diferent to the previous server.
+  Pending, is a continous streaming. When you connect to this streaming the server will stream the audio that are playing in   this moment, is diferent to the previous server.
