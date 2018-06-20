@@ -12,4 +12,4 @@ The project are divided in two sections a collector and the streaming server:
 
 - **Server**:
 
-  asdasdasdasdasd
+  Is a audio streaming server, that have a continous streaming in a infinite reproduction.
