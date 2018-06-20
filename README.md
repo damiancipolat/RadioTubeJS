@@ -1,4 +1,7 @@
 # RadioTubeJS
+
+![N|Solid](https://github.com/damiancipolat/RadioTubeJS/blob/master/doc/radio.jpg?raw=true)
+
 This project is about to create a radio-online using Node.js and fetching the content from youtube, downloading the audio from the videos, using the library ffmpeg to process and decode.
 
 The project are divided in two sections a collector and the streaming server:
