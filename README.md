@@ -23,6 +23,25 @@ The project are divided in two sections a collector and the streaming server:
    $ npm run concat
   ```
 
-- **Server**:
+- **Server streaming**:
 
-  Is a audio streaming server, that have a continous streaming in a infinite reproduction.
+  Is a audio streaming server, that have a start a streaming of the bundle file created with the collector process.
+    
+  Install and run:
+  
+  ```sh   
+   $ cd /server
+   $ npm install
+   
+   #Start
+   $ npm start
+  ```
+  To try the server you can open a browser and enter to this url:
+  http://127.0.0.1:9090/ or using VLC player you can load this url and play the streaming from them.
+
+  *Note: this server every time when you connect will play the audio from the begining, is'nt a continous streaming.*
+  
+
+- **Server Radio**:
+
+  Pending, is a continous streaming. When you connect to this streaming the server will stream the audio that are playing in   this momen, is diferent to the previous server.
