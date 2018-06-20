@@ -1,0 +1,11 @@
+{
+	"stream":{
+		"bundle"   : "../collector/mp3/bundles/1529476738272-bundle.mp3",
+		"delay"    : 0,
+		"infinite" : true
+	},
+	"server" : {
+		"port" : 9090,
+		"ip"   : "127.0.0.1"
+	}
+}
