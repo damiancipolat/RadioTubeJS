@@ -31,7 +31,7 @@ app.listen(config.server.port,config.server.ip,() => {
   console.log('> RADIO JS');  
   console.log('> Streaming file:',config.stream.bundle);
   console.log('> Waiting connections ...');
-  console.log('> Host: http://'+config.server.ip+':'+config.server.port);
+  console.log('> Server in: http://'+config.server.ip+':'+config.server.port);
   console.log('');
 
 });
